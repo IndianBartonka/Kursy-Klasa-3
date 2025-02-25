@@ -34,7 +34,7 @@ Pola licznikowe to wydzielone sekcje w rozdzielnicy elektrycznej, w których ins
 
 Typowe elementy pola licznikowego:  
 - **Licznik energii** – rejestruje pobór prądu w kilowatogodzinach.  
-- **Zabezpieczenia przedlicznikowe** – ograniczają maksymalne obciążenie i chronią przed przeciążeniami.  
+- **Zabezpieczenia** – ograniczają maksymalne obciążenie i chronią przed przeciążeniami.  
 - **Listwy zaciskowe** – umożliwiają poprawne podłączenie przewodów zasilających i odbiorczych.  
 - **Plombowanie** – uniemożliwia ingerencję w pomiar energii przez użytkownika.  
 
