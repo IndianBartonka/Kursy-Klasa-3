@@ -48,3 +48,6 @@
 
 16. Jaką rolę w obwodzie elektrycznym pełni odłącznik:  
     **Służy do bezpiecznego odłączania części obwodu od źródła napięcia, nie przerywa prądu roboczego**  
+
+17. Symbol urządzenia 3 klasy ochronnej
+![Symbol](https://github.com/IndianBartonka/Kursy-Klasa-3/blob/main/przygotowia/iii-klasa-ochronnosci-symbol.png)
