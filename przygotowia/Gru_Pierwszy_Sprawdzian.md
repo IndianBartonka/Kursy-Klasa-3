@@ -61,8 +61,8 @@
 20. Opór elektryczny jest nazywany w elektrotechnice:  
     **Rezystancja (R)**  
 
-21. Które z parametrów silnika elektrycznego można zmierzyć w...  
-    **Napięcie, prąd, opór uzwojeń, prędkość obrotową, moment obrotowy**  
+~~21. Które z parametrów silnika elektrycznego można zmierzyć w...  
+    **Napięcie, prąd, opór uzwojeń, prędkość obrotową, moment obrotowy**~~
 
 22. Obwód magnetyczny maszyny indukcyjnej zbudowany jest z:  
     **Rdzenia magnetycznego (z blach stalowych), uzwojeń**  
