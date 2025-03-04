@@ -26,26 +26,63 @@
    - Instalacje światłowodowe wymagają promieni gięcia >5 cm.  
 
 ---
-
 ### Anteny – podstawowe informacje  
 
-1. **Rodzaje anten**  
-   - **Kierunkowe (np. Yagi)** – stosowane do odbioru sygnału telewizyjnego.  
-   - **Dookólne** – stosowane w komunikacji radiowej i Wi-Fi.  
-   - **Panelowe** – często wykorzystywane w LTE i Wi-Fi.  
-   - **Paraboliczne** – stosowane w instalacjach satelitarnych.  
+#### 1. Rodzaje anten  
 
-2. **Montaż anten**  
-   - Powinny być skierowane w stronę nadajnika.  
-   - Najlepiej montować je na dachach, masztach lub balkonach.  
-   - Minimalna wysokość nad dachem: 2-3 metry dla dobrej propagacji sygnału.  
-   - Uchwyt antenowy powinien być stabilny i odporny na wiatr.  
+##### **Anteny telewizyjne**  
+- **Kierunkowe (Yagi-Uda)** – odbierają sygnał telewizyjny z jednego nadajnika.  
+- **Siatkowe** – szerokopasmowe, często stosowane w terenach z wieloma nadajnikami.  
+- **Logarytmiczne** – odbierają sygnał z szerokiego pasma częstotliwości.  
 
-3. **Wzmacniacze i filtry**  
-   - Wzmacniacze stosuje się w przypadku długich kabli (powyżej 30 m).  
-   - Filtry LTE eliminują zakłócenia od sieci komórkowych.  
-   - Rozgałęźniki sygnału stosuje się przy podłączaniu wielu odbiorników.  
+##### **Anteny radiowe**  
+- **Dipolowe** – podstawowy typ anteny dla fal radiowych (UKF, FM).  
+- **Helikalne** – używane w pasmach VHF/UHF, np. w radiokomunikacji lotniczej.  
+- **Ferrytowe** – stosowane w odbiornikach AM i fal długich.  
 
+##### **Anteny Wi-Fi i sieciowe**  
+- **Dookólne** – propagują sygnał we wszystkich kierunkach (stosowane w routerach).  
+- **Panelowe** – kierunkowe, wykorzystywane w instalacjach Wi-Fi i LTE.  
+- **Sektorowe** – stosowane w stacjach bazowych Wi-Fi do pokrycia określonego obszaru.  
+
+##### **Anteny satelitarne**  
+- **Paraboliczne (czasze)** – odbierają sygnał z satelitów geostacjonarnych.  
+- **Offsetowe** – najczęściej stosowane w instalacjach domowych, lepsza efektywność.  
+- **Prime-focus** – symetryczne, stosowane w dużych instalacjach profesjonalnych.  
+
+##### **Anteny GSM i LTE**  
+- **Panelowe** – stosowane do wzmacniania sygnału GSM/LTE w budynkach.  
+- **Magnetyczne** – niewielkie anteny stosowane w modemach i routerach mobilnych.  
+- **MIMO** – wykorzystywane w technologii LTE dla zwiększenia przepustowości.  
+
+##### **Anteny CB i krótkofalarskie**  
+- **Bičowe (whip)** – elastyczne, stosowane w radiotelefonach mobilnych.  
+- **Półfalowe dipole** – używane w amatorskich instalacjach radiowych.  
+- **Bazowe (np. 5/8 fali)** – montowane na dachach dla lepszego zasięgu.  
+
+##### **Anteny wojskowe i specjalistyczne**  
+- **Składane taktyczne** – używane w radiostacjach wojskowych.  
+- **Radarowe** – do wykrywania i śledzenia obiektów w powietrzu.  
+- **Loop (pętlowe)** – stosowane w komunikacji podwodnej i systemach nawigacyjnych.  
+
+---
+
+#### 2. Montaż anten  
+- Powinny być skierowane w stronę nadajnika.  
+- Najlepiej montować je na dachach, masztach lub balkonach.  
+- Minimalna wysokość nad dachem: 2-3 metry dla dobrej propagacji sygnału.  
+- Uchwyt antenowy powinien być stabilny i odporny na wiatr.  
+- Anteny satelitarne muszą być precyzyjnie ustawione na dany satelitę (np. HotBird 13°E).  
+- Kable antenowe należy prowadzić jak najkrótszą trasą, unikając ostrych zakrętów.  
+
+---
+
+#### 3. Wzmacniacze i filtry  
+- **Wzmacniacze sygnału** – stosowane przy długich kablach (powyżej 30 m) lub słabym sygnale.  
+- **Filtry LTE** – eliminują zakłócenia pochodzące od sieci komórkowych (700-800 MHz).  
+- **Rozgałęźniki sygnału** – stosowane przy podłączaniu wielu odbiorników.  
+- **Diplexery i zwrotnice** – umożliwiają łączenie różnych sygnałów (np. TV naziemnej i satelitarnej).
+- 
 ---
 
 ### Instalacje satelitarne  
