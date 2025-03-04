@@ -1,130 +1,65 @@
 > [!WARNING]  
 > Odpowiedzi są wygenerowane przez ChatGPT  
 
-### Rozmieszczenie przewodów, skrzynek i wysokości kabli  
+## 1. (1 pkt)  
+**Pytanie:**  
+Napisz na jakiej wysokości powinno się umieszczać telefoniczną skrzynkę przyłączeniową, i jaka powinna być odległość pomiędzy miejscem wprowadzenia kabla telekomunikacyjnego a wszystkimi pozostałymi doprowadzeniami (np. gazu, wody i energii elektrycznej).  
 
-1. **Przewody elektryczne**  
-   - W ścianach prowadzi się pionowo lub poziomo, nigdy na skos.  
-   - Minimalna wysokość od podłogi:  
-     - 30 cm – gniazda elektryczne  
-     - 140 cm – włączniki światła  
-   - W sufitach i podłogach przewody układa się w peszlach ochronnych.  
-   - Przy przejściach przez ściany należy stosować tuleje ochronne.  
-   - Przewody powinny być zabezpieczone przed uszkodzeniami mechanicznymi.  
-
-2. **Skrzynki rozdzielcze**  
-   - Montowane na wysokości 140-180 cm nad podłogą.  
-   - Powinny być łatwo dostępne i wentylowane.  
-   - W budynkach mieszkalnych stosuje się skrzynki podtynkowe lub natynkowe.  
-   - W instalacjach przemysłowych stosuje się skrzynki hermetyczne IP65 lub wyższe.  
-
-3. **Przewody antenowe i internetowe**  
-   - Powinny być prowadzone osobno, z dala od przewodów elektrycznych.  
-   - Minimalna odległość od kabli energetycznych: 30 cm.  
-   - Najczęściej stosuje się przewody koncentryczne 75Ω (np. RG-6, Triset).  
-   - Długość przewodu powinna uwzględniać zapas na przyszłe zmiany instalacji.  
-   - Instalacje światłowodowe wymagają promieni gięcia >5 cm.  
-
----
-### Anteny – podstawowe informacje  
-
-#### 1. Rodzaje anten  
-
-##### **Anteny telewizyjne**  
-- **Kierunkowe (Yagi-Uda)** – odbierają sygnał telewizyjny z jednego nadajnika.  
-- **Siatkowe** – szerokopasmowe, często stosowane w terenach z wieloma nadajnikami.  
-- **Logarytmiczne** – odbierają sygnał z szerokiego pasma częstotliwości.  
-
-##### **Anteny radiowe**  
-- **Dipolowe** – podstawowy typ anteny dla fal radiowych (UKF, FM).  
-- **Helikalne** – używane w pasmach VHF/UHF, np. w radiokomunikacji lotniczej.  
-- **Ferrytowe** – stosowane w odbiornikach AM i fal długich.  
-
-##### **Anteny Wi-Fi i sieciowe**  
-- **Dookólne** – propagują sygnał we wszystkich kierunkach (stosowane w routerach).  
-- **Panelowe** – kierunkowe, wykorzystywane w instalacjach Wi-Fi i LTE.  
-- **Sektorowe** – stosowane w stacjach bazowych Wi-Fi do pokrycia określonego obszaru.  
-
-##### **Anteny satelitarne**  
-- **Paraboliczne (czasze)** – odbierają sygnał z satelitów geostacjonarnych.  
-- **Offsetowe** – najczęściej stosowane w instalacjach domowych, lepsza efektywność.  
-- **Prime-focus** – symetryczne, stosowane w dużych instalacjach profesjonalnych.  
-
-##### **Anteny GSM i LTE**  
-- **Panelowe** – stosowane do wzmacniania sygnału GSM/LTE w budynkach.  
-- **Magnetyczne** – niewielkie anteny stosowane w modemach i routerach mobilnych.  
-- **MIMO** – wykorzystywane w technologii LTE dla zwiększenia przepustowości.  
-
-##### **Anteny CB i krótkofalarskie**  
-- **Bičowe (whip)** – elastyczne, stosowane w radiotelefonach mobilnych.  
-- **Półfalowe dipole** – używane w amatorskich instalacjach radiowych.  
-- **Bazowe (np. 5/8 fali)** – montowane na dachach dla lepszego zasięgu.  
-
-##### **Anteny wojskowe i specjalistyczne**  
-- **Składane taktyczne** – używane w radiostacjach wojskowych.  
-- **Radarowe** – do wykrywania i śledzenia obiektów w powietrzu.  
-- **Loop (pętlowe)** – stosowane w komunikacji podwodnej i systemach nawigacyjnych.  
+**Odpowiedź:**  
+Telefoniczną skrzynkę przyłączeniową powinno się umieszczać na wysokości **150-180 cm** nad podłogą. Minimalna odległość pomiędzy miejscem wprowadzenia kabla telekomunikacyjnego a innymi instalacjami (gaz, woda, energia elektryczna) powinna wynosić **30 cm**.  
 
 ---
 
-#### 2. Montaż anten  
-- Powinny być skierowane w stronę nadajnika.  
-- Najlepiej montować je na dachach, masztach lub balkonach.  
-- Minimalna wysokość nad dachem: 2-3 metry dla dobrej propagacji sygnału.  
-- Uchwyt antenowy powinien być stabilny i odporny na wiatr.  
-- Anteny satelitarne muszą być precyzyjnie ustawione na dany satelitę (np. HotBird 13°E).  
-- Kable antenowe należy prowadzić jak najkrótszą trasą, unikając ostrych zakrętów.  
+## 2. (2 pkt)  
+**Pytanie:**  
+Wymień jakie poznałeś rodzaje anten odbiorczych i podaj do jakich długości fal powinny być stosowane.  
+
+**Odpowiedź:**  
+Rodzaje anten odbiorczych i ich zastosowanie względem długości fal:  
+- **Anteny telewizyjne** (VHF/UHF) – do odbioru telewizji naziemnej (fale decymetrowe i metrowe).  
+- **Anteny radiowe** (FM, AM, DAB) – do odbioru sygnału radiowego (fale średnie, długie, krótkie).  
+- **Anteny satelitarne** (mikrofale) – do odbioru sygnału z satelitów geostacjonarnych.  
+- **Anteny Wi-Fi** (2,4 GHz / 5 GHz) – stosowane w sieciach bezprzewodowych (fale centymetrowe).  
+- **Anteny CB** (27 MHz) – używane w komunikacji CB (fale krótkie).  
+- **Anteny GSM/LTE** – stosowane do komunikacji komórkowej (fale centymetrowe i decymetrowe).  
 
 ---
 
-#### 3. Wzmacniacze i filtry  
-- **Wzmacniacze sygnału** – stosowane przy długich kablach (powyżej 30 m) lub słabym sygnale.  
-- **Filtry LTE** – eliminują zakłócenia pochodzące od sieci komórkowych (700-800 MHz).  
-- **Rozgałęźniki sygnału** – stosowane przy podłączaniu wielu odbiorników.  
-- **Diplexery i zwrotnice** – umożliwiają łączenie różnych sygnałów (np. TV naziemnej i satelitarnej).
-- 
----
+## 3. (3 pkt)  
+**Pytanie:**  
+Opisz czym różnią się od siebie anteny (jednokanałowe, anteny grupy kanałów i wielozakresowe).  
 
-### Instalacje satelitarne  
-
-1. **Podstawowe elementy**  
-   - **Antena satelitarna (czasza)** – odbiera sygnał z satelity.  
-   - **Konwerter LNB** – przekształca sygnał na niższą częstotliwość.  
-   - **Kabel koncentryczny** – łączy konwerter z tunerem satelitarnym.  
-   - **Dekoder (tuner)** – odbiera i dekoduje sygnał telewizyjny.  
-
-2. **Montaż anteny**  
-   - Musi być skierowana na właściwego satelitę (np. HotBird 13°E).  
-   - Kąt elewacji zależy od lokalizacji geograficznej (dla Polski ok. 30-35°).  
-   - Montaż musi uwzględniać stabilność konstrukcji przy wietrze.  
-   - Po zamontowaniu wykonuje się precyzyjne ustawienie sygnału miernikiem.  
-
-3. **Rodzaje instalacji**  
-   - **Pojedyncza** – jeden konwerter LNB, jeden dekoder.  
-   - **Multiroom** – konwerter Twin, Quad lub Octo do obsługi kilku dekoderów.  
-   - **Zbiorcza (SMATV)** – multiswitch pozwala na podłączenie wielu mieszkań.  
-   - **Obrotowa** – zastosowanie obrotnicy dla odbioru sygnału z różnych satelitów.  
+**Odpowiedź:**  
+- **Anteny jednokanałowe** – dostrojone do odbioru jednego konkretnego kanału telewizyjnego, charakteryzują się wysoką selektywnością i dużym zyskiem.  
+- **Anteny grupy kanałów** – przeznaczone do odbioru określonej grupy kanałów (np. kilku kanałów w paśmie UHF). Stosowane w miejscach, gdzie nadawane są multipleksy na zbliżonych częstotliwościach.  
+- **Anteny wielozakresowe** – umożliwiają odbiór sygnałów z różnych zakresów częstotliwości (np. VHF + UHF), stosowane do odbioru pełnego pasma telewizyjnego.  
 
 ---
 
-### Konduktory – rodzaje i zastosowanie  
+## 4. (2 pkt)  
+**Pytanie:**  
+Opisz co wchodzi w skład instalacji do odbioru satelitarnego i opisz jej poszczególne części.  
 
-1. **Rodzaje konduktorów**  
-   - **Przewodzące**  
-     - Miedź – najlepsza przewodność, stosowana w przewodach elektrycznych.  
-     - Aluminium – tańsze, ale gorsza przewodność, używane w energetyce.  
-   - **Izolacyjne**  
-     - PCV – stosowane w przewodach elektrycznych.  
-     - Guma – odporna na warunki atmosferyczne.  
-   - **Półprzewodniki**  
-     - Krzem – podstawowy materiał w elektronice (tranzystory, układy scalone).  
-     - German – stosowany w diodach i tranzystorach wysokiej częstotliwości.  
+**Odpowiedź:**  
+Instalacja do odbioru satelitarnego składa się z następujących elementów:  
+1. **Antena satelitarna (czasza)** – odbiera sygnał z satelity i skupia go na konwerterze.  
+2. **Konwerter LNB** – przekształca sygnał z satelity na częstotliwość pośrednią i przesyła go kablem do dekodera.  
+3. **Kabel koncentryczny** – łączy konwerter z tunerem, przesyłając sygnał o niskiej tłumienności.  
+4. **Dekoder (tuner satelitarny)** – odbiera sygnał satelitarny, dekoduje go i przesyła do telewizora.  
+5. **Uchwyty i mocowania** – stabilizują antenę, zapewniając jej precyzyjne ustawienie.  
+6. **Zasilacz wzmacniacza** (opcjonalnie) – stosowany w przypadku długich przewodów do wzmocnienia sygnału.  
 
-2. **Rodzaje końcówek i złącz**  
-   - **Złącza F** – stosowane w instalacjach antenowych i satelitarnych.  
-   - **Złącza BNC** – wykorzystywane w systemach monitoringu i pomiarowych.  
-   - **Złącza RJ45** – stosowane w sieciach komputerowych (Ethernet).  
-   - **Złącza bananowe** – używane w systemach audio i pomiarowych.  
-   - **Złącza RCA (Cinch)** – stosowane w sprzęcie audio-wideo.  
-   - **Złącza SMA** – używane w instalacjach GSM, Wi-Fi i radiokomunikacji.  
+---
 
+## 5. (3 pkt)  
+**Pytanie:**  
+Opisz poszczególne rodzaje konwerterów (LNB):  
+
+a. Single-LNB  
+b. Twin-LNB  
+c. Quatro-LNB  
+
+**Odpowiedź:**  
+- **Single-LNB** – konwerter z jednym wyjściem, umożliwiający podłączenie jednego dekodera satelitarnego.  
+- **Twin-LNB** – konwerter z dwoma niezależnymi wyjściami, pozwala na podłączenie dwóch dekoderów lub dekodera z nagrywarką (PVR).  
+- **Quatro-LNB** – konwerter z czterema niezależnymi wyjściami, przeznaczony do współpracy z multiswitchem w instalacjach zbiorczych.  
